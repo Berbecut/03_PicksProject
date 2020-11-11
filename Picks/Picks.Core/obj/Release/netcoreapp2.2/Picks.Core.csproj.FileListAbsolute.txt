@@ -1,0 +1,11 @@
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\bin\Release\netcoreapp2.2\Picks.Core.deps.json
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\bin\Release\netcoreapp2.2\Picks.Core.runtimeconfig.json
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\bin\Release\netcoreapp2.2\Picks.Core.runtimeconfig.dev.json
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\bin\Release\netcoreapp2.2\Picks.Core.dll
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\bin\Release\netcoreapp2.2\Picks.Core.pdb
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\obj\Release\netcoreapp2.2\Picks.Core.csprojAssemblyReference.cache
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\obj\Release\netcoreapp2.2\Picks.Core.csproj.CoreCompileInputs.cache
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\obj\Release\netcoreapp2.2\Picks.Core.AssemblyInfoInputs.cache
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\obj\Release\netcoreapp2.2\Picks.Core.AssemblyInfo.cs
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\obj\Release\netcoreapp2.2\Picks.Core.dll
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\obj\Release\netcoreapp2.2\Picks.Core.pdb

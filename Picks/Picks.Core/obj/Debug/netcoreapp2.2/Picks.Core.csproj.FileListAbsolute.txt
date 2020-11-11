@@ -1,0 +1,35 @@
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\bin\Debug\netcoreapp2.2\Picks.Core.deps.json
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\bin\Debug\netcoreapp2.2\Picks.Core.dll
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\bin\Debug\netcoreapp2.2\Picks.Core.pdb
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.csprojAssemblyReference.cache
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.csproj.CoreCompileInputs.cache
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.AssemblyInfoInputs.cache
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.AssemblyInfo.cs
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.dll
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.pdb
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\bin\Debug\netcoreapp2.2\Picks.Core.runtimeconfig.json
+F:\Florin\Campus Varnamo_02\02 Molnbaserat_arkitektur\Florin_Picks\Picks\Picks.Core\bin\Debug\netcoreapp2.2\Picks.Core.runtimeconfig.dev.json
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Picks\Picks.Core\bin\Debug\netcoreapp2.2\Picks.Core.deps.json
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Picks\Picks.Core\bin\Debug\netcoreapp2.2\Picks.Core.runtimeconfig.json
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Picks\Picks.Core\bin\Debug\netcoreapp2.2\Picks.Core.runtimeconfig.dev.json
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Picks\Picks.Core\bin\Debug\netcoreapp2.2\Picks.Core.dll
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Picks\Picks.Core\bin\Debug\netcoreapp2.2\Picks.Core.pdb
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.csprojAssemblyReference.cache
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.csproj.CoreCompileInputs.cache
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.AssemblyInfoInputs.cache
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.AssemblyInfo.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.dll
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.pdb
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\PicksProject\Picks\Picks.Core\bin\Debug\netcoreapp2.2\Picks.Core.deps.json
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\PicksProject\Picks\Picks.Core\bin\Debug\netcoreapp2.2\Picks.Core.runtimeconfig.json
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\PicksProject\Picks\Picks.Core\bin\Debug\netcoreapp2.2\Picks.Core.runtimeconfig.dev.json
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\PicksProject\Picks\Picks.Core\bin\Debug\netcoreapp2.2\Picks.Core.dll
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\PicksProject\Picks\Picks.Core\bin\Debug\netcoreapp2.2\Picks.Core.pdb
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\PicksProject\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.csprojAssemblyReference.cache
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\PicksProject\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.csproj.CoreCompileInputs.cache
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\PicksProject\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.AssemblyInfoInputs.cache
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\PicksProject\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.AssemblyInfo.cs
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\PicksProject\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.dll
+F:\Applications\2020 Hösten\Vantar\Oct\SystemUtvecklare - Toxic\Projekt\PicksProject\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.pdb
+F:\MyProjects for interviews\03_PicksProject\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.dll
+F:\MyProjects for interviews\03_PicksProject\Picks\Picks.Core\obj\Debug\netcoreapp2.2\Picks.Core.pdb

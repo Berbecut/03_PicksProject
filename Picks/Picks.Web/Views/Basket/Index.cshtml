@@ -1,0 +1,82 @@
+﻿@model ImageCartViewModel
+@{
+    ViewData["Title"] = "Cart";
+}
+
+<br />
+<table class="table table-bordered table-striped text-center">
+    <thead>
+        <tr>
+            <th>Preview</th>
+            <th>File name</th>
+            <th>Download</th>
+            <th>Remove</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var row in Model.Cart.CartRows)
+        {
+            <tr>
+                <td class="text-center col-md-4 ftco-animate" style="height: 100px !important; width: 200px !important">
+                    <a href="@row.FileUpload.FilePath" data-lightbox="roadtrip" class="photography-entry1 img justify-content-center align-items-center" style="background-image: url(@row.FileUpload.FilePath)"></a>
+                </td>
+                <td class="text-center">
+                    <br />
+                    @row.FileUpload.FileTitle
+                </td>
+                <td>
+                    <br />
+                    <form asp-action="DownloadOnlyAnImage" asp-controller="Basket" method="post">
+                        <input type="hidden" name="UploadIdForDownloadAnImage" value="@row.FileUpload.Id" />
+                        <button class="btn btn-success pull-right" type="submit">Download</button>
+                    </form>
+                </td>
+                <td>
+                    <br />
+                    <form asp-action="RemoveImageFromCart" asp-controller="Basket" method="post">
+                        <input type="hidden" name="Id" value="@row.FileUpload.Id" />
+                        <input type="hidden" name="returnUrl" value="@Model.ReturnUrl" />
+                        <button class="btn btn-danger pull-right" type="submit">Remove</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="row col-md-12">
+    <div class="col-md-4">
+        <div class="card card-body">
+            <a class="btn btn-primary" asp-area="" asp-controller="Categories" asp-action="Index">Continue to add images</a>
+        </div>
+    </div>
+
+
+    <div class="col-md-4">
+        @if (Model.Cart.CartRows.Count() > 1)
+        {
+            <div class="card card-body">
+
+                <form asp-action="DownloadZipAllPhotos" asp-controller="Basket" method="post">
+                    <button class="btn btn-block btn-success">Download All Images</button>
+                </form>
+            </div>
+        }
+        else
+        {
+            <div></div>
+        }
+    </div>
+
+
+    <div class="col-md-4">
+        <div class="card card-body">
+            <form asp-action="DeleteAllFromCart" asp-controller="Basket" method="post">
+                <button class="btn btn-block btn-danger">Empty basket</button>
+            </form>
+        </div>
+    </div>
+
+</div>
+

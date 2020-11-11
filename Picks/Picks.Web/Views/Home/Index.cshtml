@@ -1,0 +1,37 @@
+﻿@model FileUploadViewModel
+
+@{
+    ViewData["Title"] = "Catalog";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-md-12">
+    <hr />
+    <h4 class="text-uppercase text-center">All images from all categories</h4>
+
+    <section class="ftco-section-2 @*text-center*@">
+        <div class="photograhy">
+            <div class="row no-gutters text-center">
+
+                @if (Model.FileUpload.Count == 0)
+                {
+                    <div></div>
+                }
+                else
+                {
+                    @foreach (var v in Model.FileUpload)
+                    {
+                        <div class="col-md-4 ftco-animate" style="padding: 3px">
+                            <a href="@v.FilePath" data-lightbox="roadtrip" class="photography-entry img justify-content-center align-items-center" style="background-image: url(@v.FilePath)">
+                                <div class="overlay"></div>
+                                <div class="text text-center">
+                                </div>
+                            </a>
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+    </section>
+
+</div>

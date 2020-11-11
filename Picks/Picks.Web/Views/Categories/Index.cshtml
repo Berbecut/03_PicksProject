@@ -1,0 +1,58 @@
+﻿@model BrowseImagesViewModel
+
+@{
+    ViewData["Title"] = "Category";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>@ViewData["Category"]</h1>
+
+<div class="col-md-12">
+    <hr />
+    <h4 class="text-uppercase text-center">Images from selected category</h4>
+
+    <section class="ftco-section-2">
+        <div class="photograhy">
+
+            <div class="row no-gutters text-center">
+
+                @if (Model.FileUpload.Count == 0)
+                {
+                    <div></div>
+                }
+                else
+                {
+                    <div class="col-md-12" style="padding-bottom:5px">
+                        <form method="post" asp-controller="Category" asp-action="Index">
+                            <div class="input-group-prepend text-center">
+                                <label class="input-group-text" for="CategoryId">Select Category</label>
+                                <select class="custom-select float-left" asp-items="Model.Categories" asp-for="CategoryId"></select>
+                                <button type="submit" class="btn btn-primary">Select category</button>
+                            </div>
+                        </form>
+                    </div>
+
+
+
+                    @foreach (var image in Model.FileUpload)
+                    {
+                        <div class="col-md-4 ftco-animate" style="padding: 3px">
+                            <a href="@image.FilePath" data-lightbox="roadtrip" class="photography-entry img justify-content-center align-items-center" style="background-image: url(@image.FilePath)">
+                                <div class="overlay"></div>
+                                <div class="text text-center">
+                                </div>
+                            </a>
+
+                            <form asp-action="AddImageToCart" asp-controller="Basket" method="post" class="add-to-cart">
+                                <input type="hidden" asp-for="Id" value="@image.Id" />
+                                <button type="submit" class="mt-1 btn btn-primary buttonflorin">Add to basket</button>
+                            </form>
+                        </div>
+                    }
+                }
+            </div>
+
+        </div>
+    </section>
+
+</div>

@@ -1,0 +1,8 @@
+﻿@model Picks.Core.Models.Cart
+
+@if (Model.CartRows.Any())
+{
+    <span class="badge badge-light ml-2 basket-count">
+        @Model.CartRows.Count()
+    </span>
+}
